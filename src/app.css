@@ -1,0 +1,21 @@
+.App {
+  font-family: "Arial, sans-serif";
+  text-align: "center";
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+}
+.app-header {
+  width: 100%;
+  color: rgb(0, 138, 138);
+  text-align: center;
+}
+.header-2 {
+  color: rgb(0, 171, 171);
+}
+.app-chart {
+  width: 70%;
+  text-align: center;
+}
